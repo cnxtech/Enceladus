@@ -44,7 +44,7 @@
     "gulp-pug": "^4.0.1",
     "gulp-rename": "^1.4.0",
     "http-server": "^0.11.1",
-    "postcss": "^7.0.17",
+    "postcss": "^7.0.36",
     "postcss-calc": "^7.0.1",
     "postcss-each": "^0.10.0",
     "postcss-import": "^12.0.1",
